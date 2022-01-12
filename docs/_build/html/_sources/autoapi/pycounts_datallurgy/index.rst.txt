@@ -1,0 +1,24 @@
+:py:mod:`pycounts_datallurgy`
+=============================
+
+.. py:module:: pycounts_datallurgy
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   plotting_datallurgy/index.rst
+   pycounts_datallurgy/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
